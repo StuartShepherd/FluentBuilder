@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilder", "FluentBuilder.csproj", "{F8F55D91-076D-4374-81D6-91E8A3037A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F55D91-076D-4374-81D6-91E8A3037A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F55D91-076D-4374-81D6-91E8A3037A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F55D91-076D-4374-81D6-91E8A3037A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F55D91-076D-4374-81D6-91E8A3037A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51829A9C-6A08-43D3-8580-C601C02417D0}
+	EndGlobalSection
+EndGlobal
