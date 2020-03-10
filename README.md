@@ -1,4 +1,4 @@
-# Fluent Builder Example
+# Fluent Builder Design Pattern Example
 Fluent builder is a creational design pattern, which allows constructing complex objects step by step.
 
 Fluent builder pattern is a style of coding which force the developer to create the object in sequence by calling each setter method one after the another until all required attributes are set.
