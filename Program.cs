@@ -7,7 +7,7 @@ namespace Builder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Builder example");
+            Console.WriteLine("Fluent Builder design pattern example");
             Console.WriteLine("Builder is a creational design pattern, which allows constructing complex objects step by step.");
             Console.WriteLine();                       
 
